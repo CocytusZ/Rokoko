@@ -1,0 +1,17 @@
+    beb9    beac    bf62    3f5b    3ebd    3e95    3e58    ba8b    bb0b
+    beb8    beb1    bf65    3f5b    3ebd    3e95    3e58    ba8b    3c2e
+    bebc    beb1    bf64    3f5b    3ebd    3e95    3e58    3b51    3b51
+    bebc    beae    bf63    3f5b    3ebd    3e95    3e58    bbd1    bc1c
+    beb4    beb2    bf67    3f5b    3ebd    3e95    3e58    3b8b    3c1c
+    bec5    beb0    bf66    3f5b    3ebd    3e95    3e58    bbf4    3bd1
+    bebb    beae    bf62    3f5b    3ebd    3e95    3e58    bbae    bbf4
+    bebc    beb0    bf64    3f5b    3ebd    3e95    3e58    0000    3b0b
+    bec5    beb4    bf69    3f5b    3ebd    3e95    3e58    bc3f    bb0b
+    beb4    beaf    bf63    3f5b    3ebd    3e95    3e58    3b51    bb8b
+    beb1    beaf    bf65    3f5b    3ebd    3e95    3e58    3b51    3cb7
+    bebb    beb0    bf65    3f5b    3ebd    3e95    3e58    bc0b    bbf4
+    beb3    beaf    bf63    3f5b    3ebd    3e95    3e58    3bf4    3c3f
+    beb6    beb2    bf64    3f5b    3ebd    3e95    3e58    3a8b    3c51
+    beb5    beac    bf63    3f5b    3ebd    3e95    3e58    bbd1    bbd1
+    beb5    beae    bf62    3f5b    3ebd    3e95    3e58    3bae    3bae
+    beb8    beaf    bf62    3f5b    3ebd    3e95    3e58    bb51    3b51

@@ -1,0 +1,16 @@
+Rotation CCW
+
+acc_x = be80, acc_y = 3700, acc_z = 3f7a1000, rot_x = 3f7ffde8, rot_y = 3bbe80ae, rot_z = 3b037fa0, mag_x = 3ba7799d, mag_y = bb513c35, mag_z = 3b8b7d79, temp  = 3b0b7d79,
+acc_x = b300, acc_y = 3440, acc_z = 3f79b000, rot_x = 3f7ffde8, rot_y = 3bbdff27, rot_z = 3b04a46a, mag_x = 3ba79985, mag_y = 3b0b7d79, mag_z = ba8b7d79, temp  = 3a8b7d79,
+acc_x = c100, acc_y = 3440, acc_z = 3f79a000, rot_x = 3f7ffde8, rot_y = 3bbe71b1, rot_z = 3b044b9b, mag_x = 3ba7c5be, mag_y = 3b513c35, mag_z = ba8b7d79, temp  = 3a8b7d79,
+acc_x = b880, acc_y = 3700, acc_z = 3f79e000, rot_x = 3f7ffde6, rot_y = 3bbe4736, rot_z = 3b051ad5, mag_x = 3ba7f348, mag_y = bb8b7d79, mag_z = 3b513c35, temp  = 3a8b7d79,
+acc_x = b300, acc_y = 36c0, acc_z = 3f7a7000, rot_x = 3f7ffde6, rot_y = 3bbe1739, rot_z = 3b052b40, mag_x = 3ba82f54, mag_y = 3a8b7d79, mag_z = 3a8b7d79, temp  = 00000000,
+acc_x = b900, acc_y = 3400, acc_z = 3f79c000, rot_x = 3f7ffde8, rot_y = 3bbe2358, rot_z = 3b055864, mag_x = 3ba7fef9, mag_y = ba8b7d79, mag_z = 3b0b7d
+
+Stable
+acc_x = c700, acc_y = 26c0, acc_z = 3f7a1000, rot_x = 3f7fed26, rot_y = 3c863277, rot_z = 3c26a9d6, mag_x = 3c69a393, mag_y = 3c513c35, mag_z = 3b513c35, temp  = 00000000,
+acc_x = c500, acc_y = 2400, acc_z = 3f7b7000, rot_x = 3f7fed2a, rot_y = 3c860dd7, rot_z = 3c26d63d, mag_x = 3c699c06, mag_y = ba8b7d79, mag_z = 3bae5cd7, temp  = 3b0b7d79,
+acc_x = c580, acc_y = 26c0, acc_z = 3f7b4000, rot_x = 3f7fed28, rot_y = 3c860de0, rot_z = 3c27125b, mag_x = 3c699cf7, mag_y = 3b8b7d79, mag_z = bbd13c35, temp  = bb0b7d79,
+acc_x = be80, acc_y = 23c0, acc_z = 3f7b2000, rot_x = 3f7fed20, rot_y = 3c8653ba, rot_z = 3c26f345, mag_x = 3c699732, mag_y = 3b0b7d79, mag_z = bc0b7d79, temp  = 00000000,
+acc_x = cc80, acc_y = 2600, acc_z = 3f7ae000, rot_x = 3f7fed20, rot_y = 3c865fc7, rot_z = 3c26de55, mag_x = 3c69a125, mag_y = 00000000, mag_z = 3bf41b93, temp  = 3a8b7d79,
+acc_x = c300, acc_y = 2640, acc_z = 3f7be000, rot_x = 3f7fed20, rot_y = 3c863bcb, rot_z = 3c273624, mag_x = 3c69b981, mag_y = 3a8b7d79, mag_z = 3b513c35, temp  = 3a8b7d79,
